@@ -1,6 +1,6 @@
 # main text of home
 title: Yuki Jin
-bio: A girl who enjoys daily life
+bio: A girl who enjoys daily life.
 
 # twitter summary info
 description: A blog about me and my other stuff related
@@ -44,7 +44,7 @@ email: yuki6663@outlook.com
 authors:
   johndoe:
     name: Yuki Jin
-    bio: A girl who enjoys daily life
+    bio: A girl who enjoys daily life.
     external-image: false
     picture: assets/images/profile.jpg
     #twitter: johndoe
